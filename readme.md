@@ -69,10 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Customization Notes:
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- If you have a license file or want to include specific licensing information, update the license section accordingly.
-
-### Additional Suggestions:
-- If you have screenshots or demo links, consider adding sections for them to make your README more visually appealing and informative.
-- You can also include a section for contributing, if you plan to allow contributions to your project.
