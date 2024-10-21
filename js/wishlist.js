@@ -21,7 +21,10 @@ function displayWishlist() {
                   <div class="card-body">
                       <h5 class="card-title text-center">${book.title}</h5>
                       <p class="card-text text-center"><em>${book.author}</em></p>
-                      <button class="btn btn-danger remove-from-wishlist" data-id="${book.id}"><i class="bi bi-trash me-2"></i> Remove</button>
+                     
+                  </div>
+                  <div class= "card-footer">
+                       <button class="btn btn-danger remove-from-wishlist w-100" data-id="${book.id}"><i class="bi bi-trash me-2"></i> Remove</button>
                   </div>
               </div>
           </div>`;
